@@ -17,8 +17,8 @@ In #train-summerside:
 !route-add orchards
 !route-add wetland viewpoint
 !route-add constructed
+!route-add grace
 !route-add curling
 !route-add west heights
 !route-add ellerslie heights
-!route-add grace
 !route-add sea can
