@@ -12,9 +12,9 @@ In #train-summerside:
 !route-add little free
 !route-add summerside park
 !route-add orchards
-!route-add wetlands
+!route-add wetland viewpoint
 !route-add constructed
 !route-add curling
 !route-add west heights
-!route-add heights
+!route-add ellerslie heights
 !route-add sea can
