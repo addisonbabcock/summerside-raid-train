@@ -1,0 +1,20 @@
+
+In #south-east:
+!train summerside
+
+In #train-summerside:
+!meet 6:00 PM
+!route-add evangel
+!route-add korean
+!route-add crossing
+!route-add platground
+!route-add beach
+!route-add little free
+!route-add summerside park
+!route-add orchards
+!route-add wetlands
+!route-add constructed
+!route-add curling
+!route-add west heights
+!route-add heights
+!route-add sea can
