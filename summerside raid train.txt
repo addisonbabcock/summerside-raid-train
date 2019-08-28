@@ -6,7 +6,7 @@ In #train-summerside:
 !meet 6:00 PM
 !start 6:00 PM
 !end 7:00 PM
-!boss rayquaza
+!boss azelf
 !conductor
 !route-add evangel
 !route-add korean
