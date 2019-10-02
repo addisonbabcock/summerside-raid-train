@@ -18,6 +18,7 @@ In #train-summerside:
 !route-add orchards
 !route-add wetland viewpoint
 !route-add constructed
+!route-add aurora lake
 !route-add grace
 !route-add curling
 !route-add west heights
