@@ -13,7 +13,6 @@ In #train-summerside:
 !route-add crossing
 !route-add platground
 !route-add beach
-!route-add little free
 !route-add summerside park
 !route-add orchards
 !route-add wetland viewpoint
